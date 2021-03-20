@@ -1,4 +1,4 @@
-![Model](https://computerxs.ca/wp-content/uploads/2019/07/Thinkcentre_Tiny3_with_Pencil_06.png)
+![Model](https://fardincompteq.com/wp-content/uploads/2018/03/M700-Tiny-600x600.png)
 
 
 [![buymeacoffee](https://i.imgur.com/iYsbmQO.png)](https://www.buymeacoffee.com/revunix)
