@@ -1,7 +1,4 @@
-![Model](https://fardincompteq.com/wp-content/uploads/2018/03/M700-Tiny-600x600.png)
-
-
-[![buymeacoffee](https://i.imgur.com/iYsbmQO.png)](https://www.buymeacoffee.com/revunix)
+[![buymeacoffee](https://i.imgur.com/iYsbmQO.png)](https://www.ko-fi.com/revunix)
 
 ## Hardware
 Components | Recommended
